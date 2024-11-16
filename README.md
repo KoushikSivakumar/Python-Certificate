@@ -1,0 +1,1 @@
+Took a basic python test which covered topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes on [hackerrank.com](hackerrank.com)
